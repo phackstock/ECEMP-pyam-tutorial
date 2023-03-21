@@ -1,4 +1,4 @@
-# ENGAGE Capacity Building Workshop: the pyam package
+# ECEMP conference: the pyam package
 
 ![License](https://img.shields.io/github/license/danielhuppmann/ENGAGE-pyam-tutorial)
 [![python](https://img.shields.io/badge/python-3.7_|_3.8_|_3.9-blue?logo=python&logoColor=white)](https://github.com/IAMconsortium/pyam)
