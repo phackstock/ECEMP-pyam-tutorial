@@ -13,8 +13,6 @@ Building Workshop: the pyam package*
 
 ## Overview
 
-<img src="./_static/ENGAGE.png" height="100" align="right" alt="ENGAGE logo" />
-
 This repository holds a [Jupyter notebook](tutorial-notebook.ipynb) for a live-demo of
 the **pyam** package given as part of the ECEMP conference on October 6, 2022. This
 workshop was organized as part of the Horizon 2020 project ECEMF
